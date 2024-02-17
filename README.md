@@ -15,4 +15,4 @@ Este projeto implementa uma simulação simples da divisão de uma esfera no esp
 
 ## Imagem
 
-![Imagem da Simulação](img1.jpg)
+![Imagem da Simulação](img1.png)
