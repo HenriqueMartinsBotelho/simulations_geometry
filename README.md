@@ -1,4 +1,6 @@
-# Simulação de Divisão de Esfera 3D
+# Programa I
+
+## Simulação de Divisão de Esfera 3D
 
 Este projeto implementa uma simulação simples da divisão de uma esfera no espaço 3D. A simulação é realizada através da geração de pontos distribuídos uniformemente sobre a superfície de uma esfera, com um fator de compressão aplicado ao longo do eixo Z. Essa compressão simula uma transformação da esfera, como se ela estivesse sendo comprimida ou esticada ao longo desse eixo.
 
@@ -15,4 +17,12 @@ Este projeto implementa uma simulação simples da divisão de uma esfera no esp
 
 ## Imagem
 
-![Imagem da Simulação](img1.png)
+![Imagem da Simulação](imgs/img1.png)
+
+# Programa II
+
+## Espiral
+
+Este projeto implementa uma simulação de uma espiral 3D. A simulação é realizada através da geração de pontos distribuídos uniformemente sobre a superfície de uma espiral, com um fator de compressão aplicado ao longo do eixo Z. Essa compressão simula uma transformação da espiral, como se ela estivesse sendo comprimida ou esticada ao longo desse eixo.
+
+![Imagem da Simulação](imgs/img2.png)
